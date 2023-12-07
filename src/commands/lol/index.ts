@@ -30,7 +30,7 @@ const probabilityMap = {
   },
   [PENALTY_LEVEL.PENALTY_LEVEL_ONE]: {
     SSR: 0.2,
-    SR: 0.7,
+    SR: 0.6,
     R: 0.15,
     N: 0.05
   },

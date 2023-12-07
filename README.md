@@ -30,6 +30,7 @@ USAGE
 * [`lol hello PERSON`](#lol-hello-person)
 * [`lol hello world`](#lol-hello-world)
 * [`lol help [COMMANDS]`](#lol-help-commands)
+* [`lol lol`](#lol-lol)
 * [`lol plugins`](#lol-plugins)
 * [`lol plugins:install PLUGIN...`](#lol-pluginsinstall-plugin)
 * [`lol plugins:inspect PLUGIN...`](#lol-pluginsinspect-plugin)
@@ -102,6 +103,23 @@ DESCRIPTION
 ```
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v5.2.20/src/commands/help.ts)_
+
+## `lol lol`
+
+Late or lucky
+
+```
+USAGE
+  $ lol lol
+
+DESCRIPTION
+  Late or lucky
+
+EXAMPLES
+  $lol (./src/commands/lol/index.ts)
+```
+
+_See code: [src/commands/lol/index.ts](https://github.com/awx-ezo-tang/late-or-lucky/https://github.com/awx-ezo-tang/late-or-lucky/blob/v0.0.0/src/commands/lol/index.ts)_
 
 ## `lol plugins`
 
