@@ -96,7 +96,7 @@ const convertStringToBoolean = (answer: string) => {
   return true
 }
 
-export default class Hello extends Command {
+export default class LateOrLucky extends Command {
   static args = {}
 
   static description = 'Late or lucky'
